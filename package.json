@@ -1,0 +1,16 @@
+{
+  "name": "challenge-mailing-list",
+  "version": "1.0.0",
+  "description": "Node Challenges created for Students at CodeYourFuture.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
